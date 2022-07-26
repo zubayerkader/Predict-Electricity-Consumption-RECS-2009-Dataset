@@ -1,0 +1,2 @@
+,params,mean_test_RMSE,mean_test_MAE,mean_train_RMSE,mean_train_MAE
+0,"{'base_estimator__criterion': 'friedman_mse', 'base_estimator__max_depth': 12, 'n_estimators': 5}",-5265.37522670828,-2367.76360349018,-2815.7725846839585,-1373.6314505702994
